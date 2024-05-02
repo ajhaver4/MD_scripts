@@ -1,0 +1,16 @@
+#Removing unnecessary folders
+trapping/
+endo_system/
+nerdss/
+
+#Remover images, datafiles
+
+*.jpg
+*.png
+*jpeg
+*.csv
+*.dat
+*.ipynb
+
+#Remove test MD files
+
